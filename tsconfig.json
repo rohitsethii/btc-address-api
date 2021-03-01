@@ -43,6 +43,9 @@
             "@baseController": [
                 "controllers/base.controller"
             ],
+            "@entity": [
+                "entity/index"
+            ],
         },
         "esModuleInterop": true
     },
