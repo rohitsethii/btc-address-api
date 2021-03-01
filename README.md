@@ -13,6 +13,8 @@ To get the server running locally:
 
 * `npm start` to start the server
 
+* `npm test` to run the test cases (make sure the server is locally running)
+
 ## APIs :
 
 ### 1. Address Create API
